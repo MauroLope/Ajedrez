@@ -18,7 +18,7 @@ public abstract class Ficha {
 
     public Ficha mover(){
 
-
+        return null;
     }
 
 
